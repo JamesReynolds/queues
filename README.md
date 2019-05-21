@@ -1,0 +1,2 @@
+# queues
+Example netdata queues
